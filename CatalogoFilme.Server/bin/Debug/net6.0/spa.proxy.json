@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\Gustavo\\source\\repos\\CatalogoFilme\\CatalogoFilme.Server\\..\\catalogofilme.client",
+"MaxTimeoutInSeconds": "120"
+}
+}
